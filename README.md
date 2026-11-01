@@ -1,9 +1,7 @@
 # Topology-Notes-Chinese
 这是[Stefan Friedl](https://friedl.app.uni-regensburg.de/index.html)的拓扑学笔记的中文翻译, 目前使用的是 **1t-total-public-august-20.pdf**, 翻译完前九部分.
 
-原书版本的下载地址在[这里](https://github.com/lolisix/Topology-Notes-Chinese/releases/tag/%E5%8E%9F%E4%B9%A6)
-
-本文档使用的是mathpix识别pdf为tex格式, 并由deepseek进行翻译.
+本文档用的是mathpix识别pdf为tex格式, 并由deepseek进行翻译.
 
 ## 本书缺陷
 由于mathpix识别不了 `tikz` 图, 因此本文档中大量的图不是矢量图, 是低分辨率的位图.
@@ -20,6 +18,7 @@
 我已经向原作者询问过, 他说, 因为这本笔记还没有完结, 并且他还怕其他人进行剽窃, 因此他暂时不对外开放源代码. 我也没有源代码, 所以才用mathpix识别、deepseek翻译的方法. 由于作者的想法, 我也没法把我目前的 `.tex` 文件发放出来, 我很抱歉.
 
 ## 原文档
+原书版本的下载地址在[这里](https://github.com/lolisix/Topology-Notes-Chinese/releases/tag/%E5%8E%9F%E4%B9%A6)
 
 ## 翻译版
 早在这个项目启用前, 我就临时拿沉浸式翻译翻译过一些部分, 你可以在[此处下载](https://github.com/lolisix/Topology-Notes-Chinese/releases/tag/%E5%8F%8C%E8%AF%AD%E5%AF%B9%E7%85%A7), 但是由于沉浸式翻译提供的双语文档的中文排版有问题, 维护起来费事费力, 因此以后不会再使用相关方式进行翻译.

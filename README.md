@@ -1,7 +1,7 @@
 # Topology-Notes-Chinese
 这是[Stefan Friedl](https://friedl.app.uni-regensburg.de/index.html)的拓扑学笔记的中文翻译, 目前使用的是 **1t-total-public-august-20.pdf**, 翻译完前九部分.
 
-原书版本的下载地址在[这里]()
+原书版本的下载地址在[这里](https://github.com/lolisix/Topology-Notes-Chinese/releases/tag/%E5%8E%9F%E4%B9%A6)
 
 本文档使用的是mathpix识别pdf为tex格式, 并由deepseek进行翻译.
 
@@ -24,7 +24,7 @@
 ## 翻译版
 早在这个项目启用前, 我就临时拿沉浸式翻译翻译过一些部分, 你可以在[此处下载](https://github.com/lolisix/Topology-Notes-Chinese/releases/tag/%E5%8F%8C%E8%AF%AD%E5%AF%B9%E7%85%A7), 但是由于沉浸式翻译提供的双语文档的中文排版有问题, 维护起来费事费力, 因此以后不会再使用相关方式进行翻译.
 
-目前的最新版在[这里]().
+目前的最新版在[这里](https://github.com/lolisix/Topology-Notes-Chinese/releases/tag/%E7%BF%BB%E8%AF%91%E7%89%88).
 
 ## 待求解的问题
 由于这本书目前还在更新, 并且作者致力于把前面的章节编写得更加易懂, 因此作者的更新中会有很多「破坏性更新」, 比如在某个部分里增加新章节, 或是把某个章节拆成两章, 等等. 由于我不知道作者的源代码, 因此没法通过比较新老代码来获取增量信息, 从而进一步判断哪些章节应该新翻译, 哪些章节不用. 
